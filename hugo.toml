@@ -1,0 +1,9 @@
+baseURL = 'https://wilonweb.github.io/6-starter-hugo-blowfishhugo new posts/hello-world.md/'
+languageCode = 'fr-fr'
+title = 'Mon blog'
+theme = 'blowfish'
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
