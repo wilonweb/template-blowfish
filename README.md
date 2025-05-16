@@ -38,3 +38,11 @@ theme = 'blowfish'
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowPostNavLinks = true
+```
+
+exemple 
+pages : https://wilonweb.github.io/test-template/
+code : https://github.com/wilonweb/test-template
+
+## TODO 
+Deployer test-template en local
