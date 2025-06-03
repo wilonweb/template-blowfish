@@ -15,7 +15,7 @@ Ce dépôt est un **template prêt à l’emploi** pour créer un site statique 
 
 ---
 
-### 2. ⚙️ Activer GitHub Pages
+### 2. ⚙️ Activer Action > GitHub Pages
 
 - Va dans `Settings` → `Pages`
 - Dans **Build and Deployment**, choisis :
